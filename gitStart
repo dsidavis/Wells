@@ -1,0 +1,17 @@
+First create a repository on github.
+
+In the shell on Duncan's laptop
+
+git init
+git add everyYear.R
+git commit -m "start of the code for grouping dates by station and checking consecutive years"
+
+git remote add origin git@github.com:dsidavis/Wells.git
+git push -u origin master
+
+
+
+
+###
+
+On your laptop
